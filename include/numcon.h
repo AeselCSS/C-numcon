@@ -1,5 +1,5 @@
-#ifndef NUMCONV1_H
-#define NUMCONV1_H
+#ifndef NUMCON_H
+#define NUMCON_H
 
 int is_digit(char c);
 int is_bin_digit(char c);
@@ -16,4 +16,4 @@ void int_to_bin(int num, char str[]);
 void int_to_hex(int num, char str[]);
 void int_to_oct(int num, char str[]);
 
-#endif // NUMCONV1_H
+#endif // NUMCON_H
