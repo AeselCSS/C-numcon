@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "numconv1.h"
+#include "numcon.h"
 
 void run_tests() {
     char output[32];
