@@ -60,4 +60,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 build/numconv1
+build/numconv2
 build/test_numconv1
+build/test_numconv2
