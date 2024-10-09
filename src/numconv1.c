@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "numconv1.h"
+#include "numcon.h"
 
 // Helper functions to check if a number is valid
 // Check if a character is a digit (0-9)
